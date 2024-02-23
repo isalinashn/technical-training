@@ -1,0 +1,6 @@
+fa2f4fc20fae8d7151ac278f373b59ef  usr/share/doc/node-copy-concurrently/README.md.gz
+62982ac466a6628287e3f97b81c79ebf  usr/share/doc/node-copy-concurrently/changelog.Debian.gz
+95156e052cb4b9d9b7230a4341ae249c  usr/share/doc/node-copy-concurrently/copyright
+4a12f8e3ea64941c7fa56a052712ced0  usr/share/nodejs/copy-concurrently/copy.js
+0ccb7392f9501c28c3ac30f344c37fe2  usr/share/nodejs/copy-concurrently/is-windows.js
+985a0b697b0d589a6b71cf91cbacd02f  usr/share/nodejs/copy-concurrently/package.json

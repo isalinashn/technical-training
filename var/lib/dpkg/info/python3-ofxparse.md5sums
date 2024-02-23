@@ -1,0 +1,14 @@
+b3817757eea17e37bfdce07fd3065a0c  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/dependency_links.txt
+230a091930a82c5ae47e29610ee98ceb  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/entry_points.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/requires.txt
+7c8461fa1b01659da4cfa4abcd6fd973  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/top_level.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/ofxparse-0.19.egg-info/zip-safe
+c865423af5e5d7e3cc8ec1c0d2d0be54  usr/lib/python3/dist-packages/ofxparse/__init__.py
+d55d41e669066e6953f19d935aeb5a37  usr/lib/python3/dist-packages/ofxparse/mcc.py
+c04afbc1420cc233215d4e67c1355502  usr/lib/python3/dist-packages/ofxparse/ofxparse.py
+cf5f86ef8aee3b56c864b3f4005a159f  usr/lib/python3/dist-packages/ofxparse/ofxprinter.py
+46d997c79e934b3ee8ed70588a54c99b  usr/lib/python3/dist-packages/ofxparse/ofxutil.py
+ab103d8386b4c37789d9a1393f2824b5  usr/share/doc/python3-ofxparse/README.rst.gz
+e6551450c5a57800157813e3ba0499fa  usr/share/doc/python3-ofxparse/changelog.Debian.gz
+d961aa32628587e1e5962e2f4c1b7494  usr/share/doc/python3-ofxparse/copyright

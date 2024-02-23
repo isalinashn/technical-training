@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-columnify
+/usr/share/doc/node-columnify/Readme.md.gz
+/usr/share/doc/node-columnify/changelog.Debian.gz
+/usr/share/doc/node-columnify/copyright
+/usr/share/nodejs
+/usr/share/nodejs/columnify
+/usr/share/nodejs/columnify/columnify.js
+/usr/share/nodejs/columnify/index.js
+/usr/share/nodejs/columnify/package.json
+/usr/share/nodejs/columnify/utils.js
+/usr/share/nodejs/columnify/width.js

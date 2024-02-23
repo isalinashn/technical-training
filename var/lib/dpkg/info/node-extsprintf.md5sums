@@ -1,0 +1,9 @@
+dc526ec791853597d0aab310b8116269  usr/share/doc/node-extsprintf/README.md
+0fd0e59b6b87a4f4f2f0e40f8c9f5b95  usr/share/doc/node-extsprintf/changelog.Debian.gz
+ed6673939c61ba6d1bfd99918cf64c94  usr/share/doc/node-extsprintf/changelog.gz
+8b98c89e47e137cc919689eb2b15c55e  usr/share/doc/node-extsprintf/copyright
+6081cdfd27e3db85d8de774f09a6679e  usr/share/doc/node-extsprintf/examples/simple.js
+266e13b39b7a508d6790a23cfd65a246  usr/share/nodejs/@types/extsprintf/index.d.ts
+7ca58bf5be6df2d3c215b6751be430ef  usr/share/nodejs/@types/extsprintf/package.json
+03b0d1c030b0e8c38e667f6da4dcc352  usr/share/nodejs/extsprintf/lib/extsprintf.js
+6c52612278f1bdf405b7e4161da61fe3  usr/share/nodejs/extsprintf/package.json

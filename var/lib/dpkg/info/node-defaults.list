@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-defaults
+/usr/share/doc/node-defaults/README.md
+/usr/share/doc/node-defaults/changelog.Debian.gz
+/usr/share/doc/node-defaults/copyright
+/usr/share/nodejs
+/usr/share/nodejs/defaults
+/usr/share/nodejs/defaults/index.js
+/usr/share/nodejs/defaults/package.json

@@ -1,0 +1,15 @@
+2fb05c8decbcf0c02f1d407bd3771e65  usr/share/doc/node-mkdirp/changelog.Debian.gz
+619ada2e0f1ac08ed34d090d791a3a41  usr/share/doc/node-mkdirp/changelog.gz
+1beedf372b96d4823fe538036135ce9d  usr/share/doc/node-mkdirp/copyright
+1ca6a1854fa74f038d4e22f179e3b754  usr/share/doc/node-mkdirp/readme.markdown.gz
+47edf26248305facedd7b12a74c08efd  usr/share/nodejs/@types/mkdirp/index.d.ts
+6804ee2e7c42852f6c3776b0e8f47626  usr/share/nodejs/@types/mkdirp/package.json
+85a9219247b622bd411473774f5da34b  usr/share/nodejs/mkdirp/bin/cmd.js
+7f2aa6dc8822ba39d291cb2e24fb9e3b  usr/share/nodejs/mkdirp/index.js
+b23628e3d83391f3631e04e049a158c6  usr/share/nodejs/mkdirp/lib/find-made.js
+b6a5de09b9a14ad21157947b72567bbd  usr/share/nodejs/mkdirp/lib/mkdirp-manual.js
+416245d596fd10f00704362918482d47  usr/share/nodejs/mkdirp/lib/mkdirp-native.js
+02186675d27f125f4cf0a25f62f66f95  usr/share/nodejs/mkdirp/lib/opts-arg.js
+bb4e73574c5039ac56a7233a8cdf652c  usr/share/nodejs/mkdirp/lib/path-arg.js
+43d7b801e229d75bd6af53f9e0dd8b2c  usr/share/nodejs/mkdirp/lib/use-native.js
+6a1f8790c34f10f8e970819eef841cd4  usr/share/nodejs/mkdirp/package.json

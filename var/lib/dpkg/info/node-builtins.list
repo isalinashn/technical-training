@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-builtins
+/usr/share/doc/node-builtins/Readme.md
+/usr/share/doc/node-builtins/changelog.Debian.gz
+/usr/share/doc/node-builtins/changelog.gz
+/usr/share/doc/node-builtins/copyright
+/usr/share/nodejs
+/usr/share/nodejs/builtins
+/usr/share/nodejs/builtins/builtins.json
+/usr/share/nodejs/builtins/package.json

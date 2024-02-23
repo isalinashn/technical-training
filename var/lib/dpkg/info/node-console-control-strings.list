@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-console-control-strings
+/usr/share/doc/node-console-control-strings/README.md.gz
+/usr/share/doc/node-console-control-strings/changelog.Debian.gz
+/usr/share/doc/node-console-control-strings/copyright
+/usr/share/nodejs
+/usr/share/nodejs/console-control-strings
+/usr/share/nodejs/console-control-strings/index.js
+/usr/share/nodejs/console-control-strings/package.json

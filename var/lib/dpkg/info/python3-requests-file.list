@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/requests_file-1.5.1.egg-info
+/usr/lib/python3/dist-packages/requests_file-1.5.1.egg-info/PKG-INFO
+/usr/lib/python3/dist-packages/requests_file-1.5.1.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/requests_file-1.5.1.egg-info/requires.txt
+/usr/lib/python3/dist-packages/requests_file-1.5.1.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/requests_file.py
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-requests-file
+/usr/share/doc/python3-requests-file/changelog.Debian.gz
+/usr/share/doc/python3-requests-file/changelog.gz
+/usr/share/doc/python3-requests-file/copyright

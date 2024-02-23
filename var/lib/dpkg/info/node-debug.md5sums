@@ -1,0 +1,10 @@
+61c900fefcbf55ad72e79cc4c6eaa135  usr/share/doc/node-debug/README.md.gz
+378fe7605c3bffbd358714f4c0a87077  usr/share/doc/node-debug/changelog.Debian.gz
+25e35626201655d15174f14a448ceace  usr/share/doc/node-debug/copyright
+19c6035148b18b8ab717ef193b0009dc  usr/share/nodejs/@types/debug/index.d.ts
+5fee73f04c0da657937fa61b6d692eaa  usr/share/nodejs/@types/debug/package.json
+d084346a689161b3c5a11df81c28acc4  usr/share/nodejs/debug/package.json
+20bd9fad97b79a0a28e550ade5cd3ab3  usr/share/nodejs/debug/src/browser.js
+4d6f06c79aa07899b5310a55efa097dc  usr/share/nodejs/debug/src/common.js
+d6c53f5a0dd8f256d91210ad530a2f3e  usr/share/nodejs/debug/src/index.js
+6e63fda079262f01e14f03bdf77146c0  usr/share/nodejs/debug/src/node.js

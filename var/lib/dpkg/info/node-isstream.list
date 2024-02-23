@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/isstream
+/usr/lib/nodejs/isstream/isstream.js
+/usr/lib/nodejs/isstream/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-isstream
+/usr/share/doc/node-isstream/README.md
+/usr/share/doc/node-isstream/changelog.Debian.gz
+/usr/share/doc/node-isstream/copyright

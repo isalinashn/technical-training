@@ -1,0 +1,13 @@
+a3e83969224c374587a33ec0c90d06ae  usr/share/doc/node-https-proxy-agent/README.md.gz
+55ef4ecb725d79ca4f67d0b3d636824c  usr/share/doc/node-https-proxy-agent/changelog.Debian.gz
+8eb2ddfce0090bf3b5525ecaa21b417d  usr/share/doc/node-https-proxy-agent/copyright
+c7fa7a95c11cca7ad7a752a328707054  usr/share/nodejs/https-proxy-agent/dist/agent.d.ts
+f42654e5ae62715d786e4965f4bf99d1  usr/share/nodejs/https-proxy-agent/dist/agent.js
+0f7143a43510fd69616f8913ce2f9d66  usr/share/nodejs/https-proxy-agent/dist/agent.js.map
+45a581ac68824352cb8c0f0a6d2c6539  usr/share/nodejs/https-proxy-agent/dist/index.d.ts
+1ab2605115173249d307b538b0737fc4  usr/share/nodejs/https-proxy-agent/dist/index.js
+4f1bca092b755b1dfb2460312a98e35e  usr/share/nodejs/https-proxy-agent/dist/index.js.map
+76d735ab3cfa2a541ab43182fb9bc767  usr/share/nodejs/https-proxy-agent/dist/parse-proxy-response.d.ts
+6d441256c55d02cfb830e0f06aad8f15  usr/share/nodejs/https-proxy-agent/dist/parse-proxy-response.js
+2166eff6087791f6d1697707fbf78401  usr/share/nodejs/https-proxy-agent/dist/parse-proxy-response.js.map
+06df0ea6fa292d84919d77ee3c130fdf  usr/share/nodejs/https-proxy-agent/package.json

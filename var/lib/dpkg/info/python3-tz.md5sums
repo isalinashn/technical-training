@@ -1,0 +1,13 @@
+6aefee408c565a743efb3de8c0ee8bd8  usr/lib/python3/dist-packages/pytz-2021.1.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/pytz-2021.1.egg-info/dependency_links.txt
+ed76ffe63253549d6de9af58ab1d5c53  usr/lib/python3/dist-packages/pytz-2021.1.egg-info/top_level.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/pytz-2021.1.egg-info/zip-safe
+1d58e49ddc139121b2bc411cefec8bbd  usr/lib/python3/dist-packages/pytz/__init__.py
+38e30156944f675d272f81b2fba451dc  usr/lib/python3/dist-packages/pytz/exceptions.py
+095b5c8509766e46a47881de76c89585  usr/lib/python3/dist-packages/pytz/lazy.py
+ee7ace68c55c6ee73dbededff106e45f  usr/lib/python3/dist-packages/pytz/reference.py
+446721f74c693f25e78e8569d58dfdf1  usr/lib/python3/dist-packages/pytz/tzfile.py
+11e2bfe9b2406bd824c48087b945d05f  usr/lib/python3/dist-packages/pytz/tzinfo.py
+cb97f0896b91627d8c51d9bb9997b930  usr/share/doc/python3-tz/README.rst.gz
+1062f63cf13cef5c1e2f55cfbd60cea0  usr/share/doc/python3-tz/changelog.Debian.gz
+bcc300b93abac8a4d822843ee7bb7524  usr/share/doc/python3-tz/copyright

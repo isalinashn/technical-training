@@ -1,0 +1,12 @@
+adb07f5bb0ec786b28b80eaffb377311  usr/share/doc/node-json-stable-stringify/changelog.Debian.gz
+5093a918b0eca0713f3e5bb4c0e4c181  usr/share/doc/node-json-stable-stringify/copyright
+8590b5a572cb270096004ad666e52531  usr/share/doc/node-json-stable-stringify/readme.markdown
+ded3dd73ab2271a580f067c427e04075  usr/share/nodejs/@types/fast-json-stable-stringify/index.d.ts
+8a5ca73a92a84c418d591b55f3aab0f8  usr/share/nodejs/@types/fast-json-stable-stringify/package.json
+d50efde314192caa31feddae51c00134  usr/share/nodejs/@types/json-stable-stringify/index.d.ts
+e0f0a11fda32f0d389379e88bce1c25d  usr/share/nodejs/@types/json-stable-stringify/package.json
+8cf58dd91adcd94c4d16ea8ba8e358ee  usr/share/nodejs/fast-json-stable-stringify/index.d.ts
+60fd3c69dd012cf5033b6e58e6b0801d  usr/share/nodejs/fast-json-stable-stringify/index.js
+903a31da36d2259011d342196a9b1265  usr/share/nodejs/fast-json-stable-stringify/package.json
+3db1958d4967cd8116f472192bbd04d7  usr/share/nodejs/json-stable-stringify/index.js
+1dbe798eb3166c30676d76d9d0ecc249  usr/share/nodejs/json-stable-stringify/package.json

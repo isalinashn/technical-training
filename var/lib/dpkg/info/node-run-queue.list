@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-run-queue
+/usr/share/doc/node-run-queue/README.md
+/usr/share/doc/node-run-queue/changelog.Debian.gz
+/usr/share/doc/node-run-queue/copyright
+/usr/share/nodejs
+/usr/share/nodejs/run-queue
+/usr/share/nodejs/run-queue/package.json
+/usr/share/nodejs/run-queue/queue.js

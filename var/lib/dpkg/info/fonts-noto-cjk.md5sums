@@ -1,0 +1,10 @@
+42877b1d1e5023132072a4abf663b61b  usr/share/doc/fonts-noto-cjk/NEWS.Debian.gz
+70516b0aba927adb969397b80201fb5b  usr/share/doc/fonts-noto-cjk/NEWS.md.gz
+c81c3bc3fb712d6103ccbe9225813748  usr/share/doc/fonts-noto-cjk/changelog.Debian.gz
+90c154ef7744dec8d34720427dd4434c  usr/share/doc/fonts-noto-cjk/changelog.gz
+bc6d383966a5668e351c048b6e29c9f4  usr/share/doc/fonts-noto-cjk/copyright
+a346ced250bd6aa7fa06bce4f0c94c99  usr/share/fontconfig/conf.avail/70-fonts-noto-cjk.conf
+33525c9430ed95deaae3cfd237d6bfab  usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc
+a86af0009007b33ac61cdabdbba06e3b  usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+82636bb297505e8ce2796369b25576d3  usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc
+776e130c2253fdbfc9e9dd827c71e8cc  usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc

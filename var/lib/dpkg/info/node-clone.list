@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-clone
+/usr/share/doc/node-clone/README.md.gz
+/usr/share/doc/node-clone/changelog.Debian.gz
+/usr/share/doc/node-clone/copyright
+/usr/share/nodejs
+/usr/share/nodejs/clone
+/usr/share/nodejs/clone/clone.js
+/usr/share/nodejs/clone/package.json

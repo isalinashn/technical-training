@@ -1,0 +1,15 @@
+0f9f0a91c62d6fd41d7f66ba95901bce  usr/share/doc/node-string-width/changelog.Debian.gz
+d4cd3fd4004a65e964e7acaf390a4fca  usr/share/doc/node-string-width/copyright
+a5c861c63c0605befaa24841f329d11a  usr/share/doc/node-string-width/readme.md
+81e233d8eb7d18f8d4f63558a789602f  usr/share/nodejs/string-width/index.d.ts
+b7736655cb9357b1792b7d4d3e015655  usr/share/nodejs/string-width/index.js
+cd05a0eb3d95247fd4e7590c36c2bf13  usr/share/nodejs/string-width/node_modules/emoji-regex/es2015/index.js
+7236210e9a10bc7ffc7d2ae28deef28c  usr/share/nodejs/string-width/node_modules/emoji-regex/es2015/text.js
+ff6369f7289488efa247729b2b9c643e  usr/share/nodejs/string-width/node_modules/emoji-regex/index.d.ts
+ae12e313b3f217ec052ad6347b079a31  usr/share/nodejs/string-width/node_modules/emoji-regex/index.js
+ac3611611f5a3742114b55808f52a53c  usr/share/nodejs/string-width/node_modules/emoji-regex/package.json
+eafa27610e71dbde83f426a7fc0aa4ab  usr/share/nodejs/string-width/node_modules/emoji-regex/text.js
+478a27a348ee487b07f6ed586ba5ab33  usr/share/nodejs/string-width/node_modules/is-fullwidth-code-point/index.d.ts
+4e13e3959f8c2840a6a8ab3da43c1e5b  usr/share/nodejs/string-width/node_modules/is-fullwidth-code-point/index.js
+7c2dfa1f539b955d64d6af55282e1d9e  usr/share/nodejs/string-width/node_modules/is-fullwidth-code-point/package.json
+1f4a09b8543c80895ac76a7b14530c60  usr/share/nodejs/string-width/package.json

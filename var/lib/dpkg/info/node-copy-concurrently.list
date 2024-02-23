@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-copy-concurrently
+/usr/share/doc/node-copy-concurrently/README.md.gz
+/usr/share/doc/node-copy-concurrently/changelog.Debian.gz
+/usr/share/doc/node-copy-concurrently/copyright
+/usr/share/nodejs
+/usr/share/nodejs/copy-concurrently
+/usr/share/nodejs/copy-concurrently/copy.js
+/usr/share/nodejs/copy-concurrently/is-windows.js
+/usr/share/nodejs/copy-concurrently/package.json

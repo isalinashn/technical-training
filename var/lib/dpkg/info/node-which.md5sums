@@ -1,0 +1,9 @@
+a5ebd6e6acdcf339fe63c9ddf770fd1f  usr/share/doc/node-which/README.md
+e61dd308689f49659bfbb363e8927b17  usr/share/doc/node-which/changelog.Debian.gz
+45c124ba7212d8927123734515324e83  usr/share/doc/node-which/changelog.gz
+ee1fb42e725253184d5b86ec45b01890  usr/share/doc/node-which/copyright
+c24db242c4f109c84d7a7c2b7a41ac6e  usr/share/nodejs/@types/which/index.d.ts
+c4437b25e602aef8d9675910f6fe792d  usr/share/nodejs/@types/which/package.json
+ab7317a95d1f704cb183d7c438a3e890  usr/share/nodejs/which/bin/node-which
+6bcb9e5778d80ea1512a98d73d4e3c9a  usr/share/nodejs/which/package.json
+2f112ac3fed09f7bc11e3f78c096e435  usr/share/nodejs/which/which.js

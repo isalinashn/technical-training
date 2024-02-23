@@ -1,0 +1,16 @@
+7e97052d064595e86fb79568439d21d8  usr/share/doc/node-resolve-from/TODO.Debian
+4e93f3e3e62dec0649e25b4592f08d49  usr/share/doc/node-resolve-from/changelog.Debian.gz
+0fc0060f6b1dc65f0be9181324f92a15  usr/share/doc/node-resolve-from/copyright
+cb0964da0bc7b41609c36380aa52ad52  usr/share/doc/node-resolve-from/readme.md
+d29baaf7a63477c3c0ef3de040d5ae81  usr/share/nodejs/callsites/index.d.ts
+22159db14b1ee12c8fcf6344da7fd835  usr/share/nodejs/callsites/index.js
+895020d0e9d1e1993267a76b1c8732ca  usr/share/nodejs/callsites/package.json
+f9c00c4bfbd552764ec4193ce1c33e1f  usr/share/nodejs/import-fresh/index.d.ts
+bb4762ad4fa4f2cc381a19b6fd96de4b  usr/share/nodejs/import-fresh/index.js
+1e854adad9b920c577d3c44ce0da1c2f  usr/share/nodejs/import-fresh/package.json
+34bd2dcf63b15ab3bf06d26de7798837  usr/share/nodejs/parent-module/index.d.ts
+ac72366ced27f2eb3027408ab13f853f  usr/share/nodejs/parent-module/index.js
+1f3fec5ca21f00774ef413b09e6f5a99  usr/share/nodejs/parent-module/package.json
+7b394ca64f1befb815b8a3c0829f9b57  usr/share/nodejs/resolve-from/index.d.ts
+ec6598935ebd97f1b2549c0a9dc1397b  usr/share/nodejs/resolve-from/index.js
+ce0698af8b25b1ff8e4bf7def07f6ca5  usr/share/nodejs/resolve-from/package.json

@@ -1,0 +1,8 @@
+58273ad252ddc334857ece0a90314b6d  usr/share/doc/node-write-file-atomic/README.md
+a5eeea72056feecc98d0faaed2f0d897  usr/share/doc/node-write-file-atomic/changelog.Debian.gz
+3ef35a77bcb097c052538ba58323c39c  usr/share/doc/node-write-file-atomic/changelog.gz
+a5dc6aa3cd853362250e333f1e665f82  usr/share/doc/node-write-file-atomic/copyright
+267ccbdc2310a909fbe27d7741dbbd7c  usr/share/nodejs/@types/write-file-atomic/index.d.ts
+95d1480167fac7ce1230017db223c113  usr/share/nodejs/@types/write-file-atomic/package.json
+d82c321f0ad760906f0af6f9dd705dd6  usr/share/nodejs/write-file-atomic/index.js
+4a1f8da627526dc7847c62c83c139035  usr/share/nodejs/write-file-atomic/package.json

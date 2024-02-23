@@ -1,0 +1,7 @@
+a0336de6ba3698461b81b3bfe7f5b894  usr/share/doc/node-signal-exit/README.md
+9377e7aef91c867acfcf2a8e21260d59  usr/share/doc/node-signal-exit/changelog.Debian.gz
+42bb4c301bf9c9cddf0808b9b8ed7d20  usr/share/doc/node-signal-exit/changelog.gz
+8934f856a2ef7802acd354f18df994a1  usr/share/doc/node-signal-exit/copyright
+a182aa27ea868dcd3775ec447b26fb98  usr/share/nodejs/signal-exit/index.js
+37c7ccfe57d64fc58b6c352c0cd59083  usr/share/nodejs/signal-exit/package.json
+088797b13dce89e566484933fe8538b7  usr/share/nodejs/signal-exit/signals.js

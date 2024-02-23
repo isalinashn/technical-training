@@ -1,0 +1,13 @@
+9958d801a6b015383eef42493ea202cb  usr/share/doc/node-normalize-package-data/README.md.gz
+5004ccbd8e89270dcca7a9765062b7c2  usr/share/doc/node-normalize-package-data/changelog.Debian.gz
+17672a550d37493c455d6d427ed60aa2  usr/share/doc/node-normalize-package-data/copyright
+a5bd1ad9528df7a928d36388420d1eba  usr/share/nodejs/@types/normalize-package-data/index.d.ts
+dbb1161e9e025ced0410036a75a3ca3d  usr/share/nodejs/@types/normalize-package-data/package.json
+5c523c4ab369586f32d49c6caed99c2e  usr/share/nodejs/normalize-package-data/lib/extract_description.js
+cd23b87cc699461c96200df9bcb49d4c  usr/share/nodejs/normalize-package-data/lib/fixer.js
+3b87184568b3ba806d38233c904ac250  usr/share/nodejs/normalize-package-data/lib/make_warning.js
+d7c8d95c23842d8eda85fa2ff5ff5e7d  usr/share/nodejs/normalize-package-data/lib/normalize.js
+7d5529faadfd4a28c0d3064d404e902e  usr/share/nodejs/normalize-package-data/lib/safe_format.js
+8598638c133c563f5322eba9c17be4fc  usr/share/nodejs/normalize-package-data/lib/typos.json
+20e768e3962566757a16c67d7ad22991  usr/share/nodejs/normalize-package-data/lib/warning_messages.json
+2960845cf3b47493446b21cb3b49327c  usr/share/nodejs/normalize-package-data/package.json

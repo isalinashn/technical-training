@@ -1,0 +1,13 @@
+b0dcc24bb5598d084d0acac017292752  usr/lib/python3/dist-packages/cached_property-1.5.2.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/cached_property-1.5.2.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/cached_property-1.5.2.egg-info/not-zip-safe
+0d1e7468120f61ee0dce1105ace5c143  usr/lib/python3/dist-packages/cached_property-1.5.2.egg-info/top_level.txt
+80fc7861c905fe67ce7a38f13b257261  usr/lib/python3/dist-packages/cached_property.py
+2515e79731dccbefd599ffbe46af0676  usr/share/doc/python3-cached-property/changelog.Debian.gz
+23b841d21169fe3a743d24fedb3f0aa9  usr/share/doc/python3-cached-property/changelog.gz
+7d6bbc347ea4f13da4bcc1c74ebc0754  usr/share/doc/python3-cached-property/copyright
+df4697b9472e60508b091c83df7f595e  usr/share/python3-cached-property/tests/__init__.py
+c23a8d226373e57404bf8789788fb800  usr/share/python3-cached-property/tests/test_async_cached_property.py
+269892a58a817f44aa60231aefd3c815  usr/share/python3-cached-property/tests/test_cached_property.py
+ac58a18ba096b08b11db56c2c1fe0d0e  usr/share/python3-cached-property/tests/test_coroutine_cached_property.py
+0ec04d1c21937476f7b2cc84b13a112f  usr/share/python3/runtime.d/python3-cached-property.rtupdate
